@@ -45,7 +45,7 @@
   "id": "luciddisablerendering-plugin",
   "releases": [{
     "date": "2024-04-10",
-    "sha512sum": "48CAF91FE78CDC3700B51544AEC846AC4E64F821E362A9E416D02FC67830E24EDBEC12BD172FB0F2DCB5856DD3F027BC21103788A2516314FEE12DEE694BFBC6",
+    "sha512sum": "C75276DD4801DDA81310911C954387EDC6DA735F7124E287B53690B2A10368447CE0AB9B6DC8056DACAE7ED8CF110F04F2A693B5FFD9BA546FD8BB33A90C105D",
     "version": "1.0.1",
     "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-disable-rendering-1.0.1.jar?raw=true",
     "requires": "^1.0.0"
