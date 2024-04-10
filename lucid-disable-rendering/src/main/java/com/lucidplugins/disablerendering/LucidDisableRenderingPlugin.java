@@ -11,7 +11,7 @@ import javax.inject.Singleton;
 @Extension
 @PluginDescriptor(
         name = "Lucid Disable Rendering",
-        description = "Disabled rendering graphics on the client while plugin is enabled.",
+        description = "monkey Disabled rendering graphics on the client while plugin is enabled.",
         enabledByDefault = false,
         tags = {"rendering", "performance", "disable", "freeze"}
 )
